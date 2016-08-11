@@ -1,0 +1,6 @@
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\RobotDancing\RobotDancing\bin\Debug\RobotDancing.exe.config
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\RobotDancing\RobotDancing\bin\Debug\RobotDancing.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\RobotDancing\RobotDancing\bin\Debug\RobotDancing.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\RobotDancing\RobotDancing\obj\Debug\RobotDancing.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\RobotDancing\RobotDancing\obj\Debug\RobotDancing.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\RobotDancing\RobotDancing\obj\Debug\RobotDancing.csprojResolveAssemblyReference.cache
