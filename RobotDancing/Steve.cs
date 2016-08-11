@@ -8,17 +8,23 @@ namespace RobotDancing
 {
     public class Steve : Robot
     {
-        Robot robot = new Robot();
-        public Steve(int generation)
+        
+        public Steve()
         {
             this.name = askName();
-            this.generation = generation;
+            generation = 4;
             
         }
-        public override void material()
+        public virtual void setJob()
+        {
+            Console.WriteLine("{0} is a mechanic", name);
+
+        }
+        public override void setMaterial()
         {
             Console.WriteLine("{0} is mostly made out of titanium", name);
-            robot.question();
+            setJob();
+            this.askQuestion();
         }
 
         

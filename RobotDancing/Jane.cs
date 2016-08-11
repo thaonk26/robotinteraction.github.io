@@ -13,9 +13,9 @@ namespace RobotDancing
             this.name = askName();
             this.generation = generation;
         }
-        public override void material()
+        public override void setMaterial()
         {
-            base.material();
+            base.setMaterial();
             Console.WriteLine("and also made out of aluminium");
         }
 

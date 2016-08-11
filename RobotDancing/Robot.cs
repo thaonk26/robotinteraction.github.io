@@ -16,7 +16,7 @@ namespace RobotDancing
         {
 
         }
-        public virtual void material()
+        public virtual void setMaterial()
         {
             Console.WriteLine("{0} is made out of metal", name);
         }
@@ -26,7 +26,8 @@ namespace RobotDancing
             Console.WriteLine("What will you call me master?");
             return Console.ReadLine(); 
         }
-        public void question()
+   
+        public void askQuestion()
         {
             Console.WriteLine("Should they combine their metals together?");
             createBaby(Console.ReadLine());

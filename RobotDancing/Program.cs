@@ -11,10 +11,12 @@ namespace RobotDancing
         static void Main(string[] args)
         {
             Jane girl = new Jane(2);
-            Steve boy = new Steve(4);
-            girl.material();
-            boy.material();
-            //girl.question();
+            Steve boy = new Steve();
+            BabyRay baby = new BabyRay();
+            girl.setMaterial();
+            boy.setMaterial();
+            baby.setJob();
+            //girl.askQuestion();
         }
     }
 }
